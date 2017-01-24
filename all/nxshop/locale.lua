@@ -147,7 +147,7 @@ Gameplay:
 		discount = "%s, %d%% de réduction !",
 		open_in_browser = "Pour obtenir les informations requises, copiez ce lien et ouvrez le dans votre navigateur préféré",
 		copy_link = "Copier le lien",
-		nofunds_ask = "Votre compte ne dispose pas de suffisamment de fonds pour acheter ce produit.\nSouhaitez recharger votre solde ?",
+		nofunds_ask = "Votre compte ne dispose pas de suffisamment de fonds pour acheter ce produit.\nSouhaitez vous recharger votre solde ?",
 		nofunds = "Fonds insuffisants",
 		yes = "Oui",
 		no = "Non",
@@ -174,7 +174,7 @@ Gameplay:
 		ui_back = "< Retour",
 		game_money = "Monnaie du jeu : ",
 		darkrp_premium_desc = [[Le "Premium" vous donne des avantages supplémentaires dans le jeu sur nos serveurs DarkRP.
-Avec le "Premium", vous gagnez de l'argent plus rapidement et vous survivez mieux dans cette ville pleine de la criminalité.
+Avec le "Premium", vous gagnez de l'argent plus rapidement et vous survivez mieux dans cette ville pleine de criminalité.
 
 Personnage :
 * Le temps de respawn réduit à 5 secondes
