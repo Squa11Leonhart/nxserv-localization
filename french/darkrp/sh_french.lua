@@ -338,7 +338,7 @@ local french = {
 	you_cannot_vote = "Vous ne pouvez pas voter !",
 	x_cancelled_vote = "%s a annulé le dernier vote.",
 	cant_cancel_vote = "Impossible d'annuler le dernier vote car il n'y avait pas de dernier vote !",
-	jail_punishment = "Puntion pour avoir déconnecté ! Vous êtes emprisonné pour %d secondes.",
+	jail_punishment = "Punition pour vous êtes déconnecté ! Vous êtes emprisonné pour %d secondes.",
 	admin_only = "Administrateur seulement !", -- When doing /addjailpos
 	chief_or = "Chef de ",-- When doing /addjailpos
 	frozen = "Gelé.",
@@ -346,7 +346,7 @@ local french = {
 	no_demote = "Non, je ne veux pas qu'il soit rétrogradé ",
 	dont_vote = "Vous n'avez pas voté",
 
-	dead_in_jail = "Vous êtes mainteant mort jusqu'à que votre peine de prison soit terminée !",
+	dead_in_jail = "Vous êtes mainteant mort jusqu'à ce que votre peine de prison soit terminée !",
 	died_in_jail = "%s est mort en prison !",
 
 	credits_for = "CREDITS FOR %s\n",
@@ -379,14 +379,14 @@ local french = {
 	you_set_x_name = "Vous avez changé le nom de %s il se nomme maintenant %s",
 	x_set_your_name = "%s a changé votre nom, et vous vous appelez maintenant %s",
 
-	someone_stole_steam_name = "Quelqu'un utilise déjà votre nom Steam pour nom RP, donc nous avons ajouté un '1' après votre nom.", -- Uh oh
+	someone_stole_steam_name = "Quelqu'un utilise déjà votre nom Steam pour son nom RP, donc nous avons ajouté un '1' après votre nom.", -- Uh oh
 	already_taken = "Déjà pris.",
 
 	job_doesnt_require_vote_currently = "Ce métier ne nécessite pas de vote.",
 
 	x_made_you_a_y = "%s vous a mis en %s !",
 
-	cmd_cant_be_run_server_console = "Cette commande ne peut pas être exécutée qu'à partir de la console du serveur.",
+	cmd_cant_be_run_server_console = "Cette commande ne peut être exécutée qu'à partir de la console du serveur.",
 
 	-- The lottery
 	lottery_started = "Il y a une loterie ! Participez-y pour %s%d ?", -- backwards compatibility
@@ -456,7 +456,7 @@ local french = {
 
 	-- Vote Restrictions
 	hobos_no_rights = "Les sans abris n'ont pas le droit de vote",
-	gangsters_cant_vote_for_government = "Les gangsters ne peuvent voter pour des affaires gouvernementales.",
+	gangsters_cant_vote_for_government = "Les gangsters ne peuvent pas voter pour des affaires gouvernementales.",
 	government_cant_vote_for_gangsters = "Les fonctionnaires du gouvernement ne peuvent pas voter pour des affaires illégales.",
 
 	-- VGUI and some more doors/vehicles
@@ -583,7 +583,7 @@ local french = {
 	Vous n'avez pas de maison, vous demandez même de l'argent et de la nourriture aux passants.
 	Construisez votre maison avec des briques et des cartons, pour vous sauver du froid.]],
 	fishman = "Pêcheur",
-	fishman_desc = [[Utilisez vos compétances pour pêcher des objets et ensuite les revendre. Acheter des appâts et améliorer votre canne pour obtenir plus de butin.
+	fishman_desc = [[Utilisez vos compétences pour pêcher des objets et ensuite les revendre. Achetez des appâts et améliorez votre canne pour obtenir plus de butin.
 
 	Appuyez sur la touche B pour ouvrir le menu du pêcheur.]],
 	cp = "Agent de police",
@@ -615,12 +615,12 @@ local french = {
 	mobboss_desc = [[Le chef de gang est le principal criminel dans la ville.
 	Il dirige ses gangsters et fait des groupes de criminels efficaces.
 	Il est capable de saccager des appartements et de libérer des gens.]],
-	mobboss_msg = "Become a mobster and create your gang through C-Menu to get this job.",
+	mobboss_msg = "Devenez un chef de gang et créez votre gang à partir de la touche C pour obtenir ce job.",
 	merc = "Mercenaire",
 	merc_desc = [[Le mercenaire effectue différentes tâches. Il peut faire plein de choses tel que: des assassinats, des hold-up, de la reconnaissance etc. Tout le monde peut profiter de vos services, incluant la police, les citoyens et les gangsters.]],
 	medic = "Médecin",
 	medic_desc = [[Le médecin peut soigner les habitants de la ville.
-	Utilisez le kit médical pour soignez vos patients, et vous soigner vous même. Vous pouvez aussi vendre des médicaments à vos patients.]],
+	Utilisez le kit médical pour soigner vos patients, et vous soigner vous même. Vous pouvez aussi vendre des médicaments à vos patients.]],
 	gundealer = "Vendeur d'armes",
 	gundealer_desc = [[Le vendeur d'armes est la seule personne qui peut vendre des armes légalement.
 	Ne vendez pas d'armes illégales sous les yeux des policiers, ou ils pourront vous arrêter !]],
@@ -636,12 +636,12 @@ local french = {
 	security = "La sécurité",
 	security_desc = [[Devenez un agent de la sécurité d'une boutique locale ou de la banque. Vous pouvez aussi être garde du corps.
 	Vous devez protéger les établissements des intimidateurs et des voleurs.
-	If situation escalates: call the police.
+	Si la situation s'intensifie: appelez la police.
 	You're given stunstick by default, so don't risk and thread lightly.]],
 	taxidriver = "Chauffeur de taxi",
 	taxidriver_desc = [[Conduisez des personnes où ils veulent et recevez de l'argent.]],
 	fireman = "Pompier",
-	fireman_desc = [[Métier responsable et dangeureux. Sans toi notre ville serait brûlée en cendres.
+	fireman_desc = [[Métier responsable et dangeureux. Sans vous notre ville serait réduite en cendres.
 	Vous recevez de l'argent lorsque vous éteignez des feux.]],
 
 	extinguish_fire = "Vous avez reçu %s pour avoir éteint un feu !",
@@ -668,7 +668,7 @@ local french = {
 
 	-- Ammo
 	ammo = "Munitions",
-	RPG_Round = "Balle de RPG",
+	RPG_Round = "Roquette de RPG",
 	bandages = "Bandages",
 	hemostats = "Hemostats",
 	quikclots = "Quikclots",
@@ -697,8 +697,8 @@ local french = {
 	playxradio = "Radio PlayX",
 	playxtv = "Télévision PlayX",
 	playxbillboard = "PlayX Billboard",
-	charger_medkit = "Rechargeur de vie",
-	charger_suit = "Rechargeur d'armure",
+	charger_medkit = "Chargeur de vie",
+	charger_suit = "Chargeur d'armure",
 	radar = "Radar",
 
 	-- Drugs
@@ -839,8 +839,8 @@ local french = {
 	gang_halo = "Radar du gang",
 	door_upgrade = "Portes renforcées",
 
-	charger_medkit_desc = "Les rechargeurs de vie sont apparus au poste de police.",
-	charger_suit_desc = "Les rechargeurs d'armure sont apparus au poste de police.",
+	charger_medkit_desc = "Les chargeurs de vie sont apparus au poste de police.",
+	charger_suit_desc = "Les chargeurs d'armure sont apparus au poste de police.",
 	door_upgrade_desc = "Les portes du gouverment reçoivent la fonction 'verrouillage/déverrouillage'.",
 	police_halo_desc = "Les coéquipiers ont un contour vert à travers les murs. Si un coéquipier parle à la radio, son profil devient bleu. Si un coéquipier est blessé, son contour devient rouge pendant un moment.",
 	microwave_desc = "Le micro-ondes est apparu au poste de police.",
@@ -926,7 +926,7 @@ local french = {
 	pwl_return = "Remettre l'arme",
 	pwl_close = "Fermer le casier",
 
-	pwl_fail_team = "Seulement les policiers peuvent prendre des armes dans ce casier.",
+	pwl_fail_team = "Seul les policiers peuvent prendre des armes dans ce casier.",
 	pwl_fail_damage = "Vous ne pouvez pas prendre cette arme car vous avez causé des blessures à un autre officier.",
 	pwl_fail_already = "Vous avez déjà pris cette arme.",
 	pwl_fail_taken = "Cette arme a déjà été prise par un autre officier.",
@@ -1008,10 +1008,10 @@ local french = {
 	he_wants_demote_vgui_res = "avec la raison:",
 	wanna_vote_demote = "%s (%s) veut rétrograder %s (%s):\n%s\nAllez vous voter ?",
 	pm_fail = "Utilisez la commande !pm ou ou l'onglet dans le chat.",
-	precache_panic = "Problème de source moteur, où l'on ne peut rien faire pour,\nle serveur va s'arrêter dans %d secondes ou plus tôt.\nSinon le serveur crasherait.\nLes objets achetés, ainsi que les métiers et les positions seront restaurés automatiquement.",
+	precache_panic = "Problème du moteur source, où l'on ne peut rien faire pour,\nle serveur va s'arrêter dans %d secondes ou plus tôt.\nSinon le serveur crasherait.\nLes objets achetés, ainsi que les métiers et les positions seront restaurés automatiquement.",
 	restartstuff_given = "Vous avez reçu %s pour les objets que vous possédiez avant l'arrêt du serveur.",
 	arrest_reason = "La raison de l'arrestation",
-	arrested_x = "L'appréhendé ",
+	arrested_x = "L'appréhender ",
 
 	-- Detective
 	dna_crush = "écrasé par un objet lourd",
@@ -1088,7 +1088,7 @@ local french = {
 	gang_disbanded = "Le gang %s (chef: %s) a été dissous",
 	gang_job_leaderonly = "Seul le chef du gang peut modifier cela",
 	gang_job_nocopy = "Cela ne devrait pas contenir le nom d'un gang existant",
-	gang_name_copy = "Un gang nommé pareillement existe déjà",
+	gang_name_copy = "Un gang du même nom existe déjà",
 	gang_mates_fail = "Les membres n'ont pas été choisis, sont partis du serveur, ou n'existent pas",
 	gang_accepted = " a accepté votre invitation",
 	gang_created = "Le gang a été créé",
@@ -1249,13 +1249,13 @@ local french = {
 	police_is_near = "La police est proche",
 
 	heatmap = "Carte de chaleur",
-	heatmap_desc = "Afficher la chaleur, produise par les imprimantes à argent, les micro-ondes et autres objets sur la carte",
+	heatmap_desc = "Afficher la chaleur, produite par les imprimantes à argent, les micro-ondes et autres objets sur la carte",
 	heatmap_already = "Vous possédez déjà une carte de chaleur",
 
 	lockdown_timeleft = "Vous avez %d secondes pour rentrer chez vous",
-	lockdown_timeout = "La police pourrait vous arrêter pour un non respect d'un couvre feu",
+	lockdown_timeout = "La police peut vous arrêter pour non respect d'un couvre feu",
 	lockdown_info_timeleft = "Vous avez %d secondes pour rentrer chez vous",
-	lockdown_info_timeout = "Vous pouvez être arrêté pour un non respect d'un couvre feu",
+	lockdown_info_timeout = "Vous pouvez être arrêté pour non respect d'un couvre feu",
 
 	purchase_placement = "Choisissez où mettre vos achats.\nVous pouvez mettre vos achats dans la voiture la plus proche.\n",
 	buy_printer_for = "Acheter une imprimante à argent pour %s",
@@ -1312,8 +1312,8 @@ local french = {
 	handcuffs = "Menottes",
 	handcuffs_topocket = "Les menottes ont été rangées dans votre poche",
 	handcuffs_toinventory = "Les menottes ont été rangées",
-	handcuffs_arrest = "arrêter",
-	handcuffs_relese = "relâcher",
+	handcuffs_arrest = "Arrêter",
+	handcuffs_relese = "Relâcher",
 	handcuffs_makefollow = "le faire vous suivre",
 	handcuffs_makestop = "stop",
 	handcuffs_incuffs = "Menotté",
